@@ -19,4 +19,4 @@ I approach challenges with a calm, data-driven, and statistically grounded minds
 
 ### 📡 Let's Connect
 - **Email:** erayboranagirdici@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/eray-a%C4%9F%C4%B1rd%C4%B1c%C4%B1-a69540360/]
+- **LinkedIn:** https://www.linkedin.com/in/eray-a%C4%9F%C4%B1rd%C4%B1c%C4%B1-a69540360/
