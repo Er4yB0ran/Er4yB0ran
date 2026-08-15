@@ -20,16 +20,16 @@ Architected nationwide depot management systems and high-traffic B2C/B2B supply 
 ## <img src="https://api.iconify.design/lucide/layers.svg?color=%2358a6ff" height="20"/> Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS"/>
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase"/>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare"/>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js"/></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS"/></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js"/></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java"/></a>
+  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"/></a>
+  <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare"/></a>
 </div>
 
 <br/>
