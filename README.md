@@ -4,6 +4,9 @@ I'm a Full-Stack Developer with a security-first mindset. I've been actively bui
 
 I approach challenges with a calm, data-driven, and statistically grounded mindset.
 
+[![Eray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Er4yB0ran&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Er4yB0ran&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Current Focus
 
 * **IT Intern @ Mercedes-Benz:** Gaining hands-on, enterprise-level experience in corporate IT infrastructure, system operations, and security processes.
