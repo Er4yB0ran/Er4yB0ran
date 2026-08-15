@@ -39,23 +39,17 @@ Architected nationwide depot management systems and high-traffic B2C/B2B supply 
 ## <img src="https://api.iconify.design/lucide/radio.svg?color=%2358a6ff" height="20"/> Contact
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=root%40dev%3A~%23+.%2Fcontact.sh+--open;opening+secure+channel...;ready+%E2%9C%93" alt="contact animation"/>
+  <img src="./contact.svg" alt="contact" width="560"/>
 </div>
 
 <div align="center">
   <a href="mailto:erayboranagirdici@gmail.com">
-    <img src="https://img.shields.io/badge/erayboranagirdici%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=e6edf3&labelColor=0d1117" alt="Email" height="34"/>
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" height="32"/>
   </a>
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/eray-a%C4%9F%C4%B1rd%C4%B1c%C4%B1-a69540360/">
-    <img src="https://img.shields.io/badge/in%2Feray--a%C4%9F%C4%B1rd%C4%B1c%C4%B1-0e4194?style=for-the-badge&logo=linkedin&logoColor=e6edf3&labelColor=0d1117" alt="LinkedIn" height="34"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Er4yB0ran&style=for-the-badge&color=1f6feb&label=VISITORS&labelColor=0d1117" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=Er4yB0ran&style=for-the-badge&color=1f6feb&label=VISITORS&labelColor=0d1117" alt="Visitor Count" height="32"/>
 </div>
 
 ## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2358a6ff" height="20"/> Analytics
