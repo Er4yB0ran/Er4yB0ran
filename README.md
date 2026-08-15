@@ -39,12 +39,13 @@ Architected nationwide depot management systems and high-traffic B2C/B2B supply 
 ## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2358a6ff" height="20"/> Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Er4yB0ran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Er4yB0ran&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Er4yB0ran&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="200" src="https://streak-stats.demolab.com?user=Er4yB0ran&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Er4yB0ran&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er4yB0ran&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Er4yB0ran&theme=tokyonight" alt="Profile Details"/>
 </div>
 
 <div align="center">
