@@ -39,17 +39,11 @@ Architected nationwide depot management systems and high-traffic B2C/B2B supply 
 ## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2358a6ff" height="20"/> Analytics
 
 <div align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Er4yB0ran&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="200" src="https://streak-stats.demolab.com?user=Er4yB0ran&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Er4yB0ran&theme=tokyonight" alt="Top Languages"/>
+  <img width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Er4yB0ran&theme=tokyonight" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Er4yB0ran&theme=tokyonight" alt="Profile Details"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Er4yB0ran&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=0e4194&hide_border=true" alt="Activity Graph"/>
+  <img width="845" src="https://github-readme-activity-graph.vercel.app/graph?username=Er4yB0ran&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=0e4194&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <div align="center">
