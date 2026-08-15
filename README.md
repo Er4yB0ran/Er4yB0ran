@@ -55,10 +55,17 @@ Architected nationwide depot management systems and high-traffic B2C/B2B supply 
 ## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2358a6ff" height="20"/> Analytics
 
 <div align="center">
-  <img width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Er4yB0ran&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Er4yB0ran&theme=tokyonight" alt="GitHub Profile Stats"/>
 </div>
 
 <div align="center">
   <img width="845" src="https://github-readme-activity-graph.vercel.app/graph?username=Er4yB0ran&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=0e4194&hide_border=true" alt="Activity Graph"/>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Er4yB0ran/Er4yB0ran/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Er4yB0ran/Er4yB0ran/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Er4yB0ran/Er4yB0ran/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
