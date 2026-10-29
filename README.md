@@ -28,7 +28,7 @@ Mobile-first B2B/B2C platform for the auto spare parts industry: multi-depot inv
 
 <sub>Next.js · Supabase · TypeScript · Tailwind CSS</sub>
 
-[Live](https://otoyedekb2b.vercel.app) · [Case study](https://github.com/Er4yB0ran/parca-hizmetleri-saas)
+[Case study](https://github.com/Er4yB0ran/parca-hizmetleri-saas)
 
 </td>
 <td width="50%" valign="top">
