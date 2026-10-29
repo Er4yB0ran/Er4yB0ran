@@ -1,8 +1,8 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"/><img src="assets/header-dark.svg" alt="Eray Boran — Full-Stack Developer. I build SaaS platforms and data-heavy web apps, designed to be secure from the first line." width="100%"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"/><img src="assets/header-dark.svg" alt="Eray Boran — AI-native product builder. I design the system, then direct AI agents to build it, from database to deployment." width="100%"/></picture>
 
 <br/>
 
-I've been writing software since 2018, starting with algorithmic problem solving and moving on to production systems that real businesses run on. I care about clean data models, permissions done right at the database level, and interfaces people don't need a manual for. Long term, I'm building toward a technology company at the intersection of scalable software and secure infrastructure.
+I've been building software since 2018. Today I work AI-first: I shape the product, design the data model and architecture, write precise specs, and orchestrate AI coding agents to implement them, then review, test and harden every change before it ships. The result is production systems shipped at the pace of a small team, without giving up on clean data models, database-level permissions and interfaces people don't need a manual for.
 
 ### Selected work
 
@@ -11,7 +11,7 @@ I've been writing software since 2018, starting with algorithmic problem solving
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ela-akademi-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/card-ela-akademi-light.svg"/><img src="assets/card-ela-akademi-dark.svg" alt="Ela Akademi — academy management system" width="49%"/></picture>
 </p>
 <p>
-<a href="https://odiqr.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-odi-qr-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/card-odi-qr-light.svg"/><img src="assets/card-odi-qr-dark.svg" alt="ODI QR — digital wedding memories" width="49%"/></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-albumfest-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/card-albumfest-light.svg"/><img src="assets/card-albumfest-dark.svg" alt="Albumfest — QR-based wedding memories platform" width="49%"/></picture>
 <a href="https://github.com/Er4yB0ran/ProjectX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-projectx-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="assets/card-projectx-light.svg"/><img src="assets/card-projectx-dark.svg" alt="ProjectX — AI weekly planner" width="49%"/></picture></a>
 </p>
 
@@ -34,7 +34,8 @@ Led the software team and owned technical decisions between mechanical design an
 **Frontend** React, Next.js, Tailwind CSS, GSAP<br/>
 **Backend** Node.js, Supabase, PostgreSQL (RLS, RPC), Server Actions<br/>
 **Infrastructure** Vercel, Cloudflare R2, GitHub Actions<br/>
-**AI** Claude, Vercel AI SDK, Groq, Ollama, Playwright automation
+**AI workflow** Claude Code, multi-agent orchestration, spec-driven development, prompt design<br/>
+**AI in products** Claude API, Vercel AI SDK, Groq, Ollama, Playwright automation
 
 ### Contact
 
