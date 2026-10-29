@@ -5,6 +5,11 @@ on:
     # Her gün 03:17 UTC'de çalışır
     - cron: "17 3 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   generate:
